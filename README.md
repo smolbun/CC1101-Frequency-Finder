@@ -6,8 +6,8 @@
 
 ## Commonly used frequencies
 ```cpp
-const uint8_t freqCount = 5;
-const float freq[freqCount] = { 310.0, 315.0, 318.0, 390.0, 433.92 };
+const uint8_t freqCount = 8;
+const float freq[freqCount] = { 310.0, 315.0, 318.0, 330.0, 390.0, 433.0, 433.92, 868.35 };
 ```
 ## Example output
 
